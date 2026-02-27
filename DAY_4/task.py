@@ -26,3 +26,4 @@
 #b = [4,5,6]
 #c=[a,b]
 #print(c)--->nested lists
+#print(my_module.my_fav_person)
