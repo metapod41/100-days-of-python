@@ -1,0 +1,22 @@
+word_list = [
+"apple","banana","orange","grape","mango","peach","cherry","melon","lemon","pear",
+"plum","apricot","kiwi","papaya","guava","fig","date","coconut","berry","lime",
+"tiger","lion","zebra","monkey","panda","camel","horse","sheep","goat","rabbit",
+"wolf","fox","bear","deer","eagle","hawk","owl","snake","shark","whale",
+"table","chair","sofa","clock","plant","light","mirror","window","door","floor",
+"ceiling","curtain","carpet","pillow","blanket","drawer","shelf","candle","vase","frame",
+"river","ocean","mountain","forest","desert","island","valley","cloud","storm","rain",
+"thunder","lightning","snow","breeze","sunset","sunrise","shadow","meadow","cliff","cave",
+"school","college","teacher","student","pencil","notebook","eraser","marker","board","exam",
+"lesson","library","campus","project","result","degree","course","study","paper","quiz",
+"python","java","swift","kotlin","coding","debug","binary","array","stack","queue",
+"string","number","float","boolean","object","class","method","loop","index","value",
+"planet","earth","venus","mars","jupiter","saturn","neptune","galaxy","comet","asteroid",
+"orbit","rocket","spaceship","alien","meteor","cosmos","gravity","eclipse","signal","satellite",
+"music","guitar","piano","drums","violin","flute","dance","singer","artist","melody",
+"rhythm","chorus","lyrics","studio","concert","album","record","tune","voice","sound",
+"cricket","football","tennis","hockey","boxing","golf","chess","kabaddi","badminton","cycling",
+"runner","player","coach","stadium","referee","trophy","medal","league","score","match",
+"happy","brave","smart","quick","bright","calm","strong","gentle","kind","honest",
+"loyal","proud","bold","shy","clever","faithful","patient","fearless","curious","humble"
+]
