@@ -8,7 +8,7 @@ This project allows users to encode and decode messages by shifting letters of t
 
 ## 🚀 Demo
 
-![Demo](demo.gif)
+![Demo](day8.gif)
 
 
 
