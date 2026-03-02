@@ -18,3 +18,4 @@
 #print(length)->len function to find length of string
 #->variable name cant start with number 
 #name error occurs when we misspell the variable names
+#print("hello");print("bhosdu")
