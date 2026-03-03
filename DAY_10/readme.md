@@ -1,29 +1,55 @@
-🧮 Python Calculator – Function Based CLI Application
+# 🧮 Python Calculator – CLI Based Arithmetic System
 
-A simple command-line calculator built using Python.
-This project performs basic arithmetic operations and allows users to continue calculations with the previous result, start a new calculation, or exit the program.
+A simple Python-based calculator program that performs basic arithmetic operations and allows continuous calculations using the previous result.
 
-🎥 Demo Video
+This project simulates a real-world calculator in the terminal where users can chain operations, restart calculations, or exit anytime.
 
-day-10.gif
+---
+
+## 🚀 Demo
+
+![Demo](day-10.gif)
 
 
-🧠 What I Learned
 
-Through building this project, I learned:
+---
 
-How to define and use Python functions
+## 🛠 Features
 
-How to store functions inside a dictionary
+* Performs Addition, Subtraction, Multiplication, and Division
 
-How to dynamically call functions using dictionary keys
+* Uses separate functions for each operation
 
-How to create interactive CLI programs
+* Stores operations inside a dictionary for dynamic execution
 
-How to use loops (while True) effectively
+* Allows continuation with previous result
 
-How to manage program flow using conditional statements
+* Option to start a new calculation
 
-How to clear the terminal screen using the os module
+* Exit option to terminate program
 
-Writing modular and structured code
+* Clears the screen when starting a new calculation
+
+* Interactive calculation loop
+
+---
+
+## 📚 Concepts Used
+
+* Functions
+
+* Dictionaries (storing function references)
+
+* While loops
+
+* Conditional statements
+
+* User input handling
+
+* Type casting (float())
+
+* Dynamic function calling using dictionary keys
+
+* Using os.system() to clear console
+
+---
