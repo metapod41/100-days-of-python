@@ -1,0 +1,22 @@
+qb = [
+  {"text": "What is the capital of India?", "answer": "New Delhi"},
+  {"text": "Who is known as the Father of the Nation in India?", "answer": "Mahatma Gandhi"},
+  {"text": "Which is the largest planet in our solar system?", "answer": "Jupiter"},
+  {"text": "What is the national animal of India?", "answer": "Tiger"},
+  {"text": "Who invented the telephone?", "answer": "Alexander Graham Bell"},
+  {"text": "Which river is the longest in the world?", "answer": "Nile"},
+  {"text": "What is the currency of Japan?", "answer": "Yen"},
+  {"text": "Who wrote the national anthem of India?", "answer": "Rabindranath Tagore"},
+  {"text": "Which gas do plants absorb from the atmosphere?", "answer": "Carbon dioxide"},
+  {"text": "What is the smallest continent?", "answer": "Australia"},
+  {"text": "Who was the first President of India?", "answer": "Dr. Rajendra Prasad"},
+  {"text": "Which planet is known as the Red Planet?", "answer": "Mars"},
+  {"text": "What is the largest ocean on Earth?", "answer": "Pacific Ocean"},
+  {"text": "Who discovered gravity?", "answer": "Isaac Newton"},
+  {"text": "Which country is known as the Land of the Rising Sun?", "answer": "Japan"},
+  {"text": "What is the national flower of India?", "answer": "Lotus"},
+  {"text": "Which is the fastest land animal?", "answer": "Cheetah"},
+  {"text": "Who painted the Mona Lisa?", "answer": "Leonardo da Vinci"},
+  {"text": "What is the boiling point of water?", "answer": "100°C"},
+  {"text": "Which is the largest desert in the world?", "answer": "Sahara Desert"}
+]
